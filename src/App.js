@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Container from "./containers/Container";
+require('dotenv').config()
 
 function App() {
   return (
